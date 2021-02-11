@@ -1,11 +1,15 @@
 @import "./node_modules/bootstrap/scss/bootstrap";
 
 .navbar {
-    background-color: #B3B3B3;
+    background-color: gray;
 }
 
 p {
     text-align: justify;
+}
+
+h3 {
+    color: grayscale($color: #464141);
 }
 
 header {

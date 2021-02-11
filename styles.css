@@ -10627,11 +10627,15 @@ textarea.form-control-lg {
   }
 }
 .navbar {
-  background-color: #B3B3B3;
+  background-color: gray;
 }
 
 p {
   text-align: justify;
+}
+
+h3, .h3 {
+  color: #444444;
 }
 
 header {
